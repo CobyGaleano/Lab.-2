@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661470632 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\maxibatpoo\main.cpp
+	<Bidon.h>
+
+1661470271 c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\maxibatpoo\include\bidon.h
+	<string>
+	<iostream>
+
+1661387408 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\maxibatpoo\src\bidon.cpp
+	"Bidon.h"
+

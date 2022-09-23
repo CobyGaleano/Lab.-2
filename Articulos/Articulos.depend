@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1662077587 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\articulos\src\articulos.cpp
+	"Articulos.h"
+
+1662077587 c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\articulos\include\articulos.h
+	<iostream>
+	<string>
+
+1662077308 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\articulos\main.cpp
+	"Articulos.h"
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1662324439 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\klosdemy\src\alumno.cpp
+	"Alumno.h"
+
+1662324439 c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\klosdemy\include\alumno.h
+	<Persona.h>
+
+1662317738 c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\klosdemy\include\persona.h
+	<string>
+	<iostream>
+
+1662324439 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\klosdemy\src\persona.cpp
+	"Persona.h"
+
+1662324439 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\klosdemy\main.cpp
+	"Curso.h"
+
+1662324439 c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\klosdemy\include\profesor.h
+	<Persona.h>
+
+1662324439 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\klosdemy\src\profesor.cpp
+	"Profesor.h"
+
+1662323741 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\klosdemy\src\curso.cpp
+	"Curso.h"
+
+1662323696 c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\klosdemy\include\curso.h
+	"Profesor.h"
+	"Alumno.h"
+

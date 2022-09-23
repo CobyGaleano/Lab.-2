@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661703717 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\tp1poo\main.cpp
+	"Botella.h"
+
+1661703497 c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\tp1poo\include\botella.h
+	<iostream>
+	<string>
+
+1661703497 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\tp1poo\src\botella.cpp
+	"Botella.h"
+

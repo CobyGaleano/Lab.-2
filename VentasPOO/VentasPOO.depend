@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1663458520 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\ventaspoo\src\archivoventas.cpp
+	<fstream>
+	"ArchivoVentas.h"
+
+1663446131 c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\ventaspoo\include\archivoventas.h
+	"Venta.h"
+
+1663442091 c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\ventaspoo\include\venta.h
+	<iostream>
+
+1663458715 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\ventaspoo\main.cpp
+	"Venta.h"
+	"ArchivoVentas.h"
+
+1663446235 source:c:\users\brian\onedrive\documentos\utn\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\ventaspoo\src\venta.cpp
+	"Venta.h"
+
