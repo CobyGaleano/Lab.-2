@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664147185 source:c:\users\brian\onedrive\documentos\utn\primer a—o\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\ejercicios\inmobiliaria\main.cpp
+	"Inmuebles.h"
+
+1664142150 c:\users\brian\onedrive\documentos\utn\primer a—o\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\ejercicios\inmobiliaria\include\inmuebles.h
+	<iostream>
+	<string>
+
+1664147059 source:c:\users\brian\onedrive\documentos\utn\primer a—o\segundo cuatrimestre\lab. de computacion 2\p. orientada a objetos\ejercicios\inmobiliaria\src\inmuebles.cpp
+	"Inmuebles.h"
+
